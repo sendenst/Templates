@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "unique-name-you-recorded-in-exercise-2"
+      "value": "stsstore4"
     },
     "adminUsername": {
       "value": "admin123"
@@ -12,7 +12,7 @@
       "value": "Passw0rd!"
     },
     "dnsNameForPublicIP": {
-      "value": "your-initials-plus-4-or-more-random-integers-to-ensure-name-uniqueness"
+      "value": "sts4321"
     },
     "location": {
       "value": "West US"
